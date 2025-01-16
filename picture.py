@@ -10,7 +10,7 @@ def bw_judge(R, G, B):
     return color
 #他竟然不会算作临时变量吗，不愧是python
 
-im = Image.open("newYear2.jpg")
+im = Image.open("Happy!!.jpg")
 function_dir = "zimu"
 if (os.path.exists(function_dir) == False):
     os.mkdir(function_dir)
