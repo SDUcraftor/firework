@@ -1,0 +1,23 @@
+{
+  "placements": [
+    {
+      "id": "a6e38104-af4c-4402-ace3-0b4cbfa8ec1e",
+      "file_name": "Ê¥µ®Ê÷",
+      "hash": "e6d34c39-0194-3c35-ab04-b1de72d438ae",
+      "origin": {
+        "position": [
+          68,
+          -60,
+          -210
+        ],
+        "dimension": "minecraft:overworld"
+      },
+      "rotation": "NONE",
+      "mirror": "NONE",
+      "owner": {
+        "uuid": "b8ad5419-7c5e-3612-a921-70d75e1d414e",
+        "name": "rx2333"
+      }
+    }
+  ]
+}
