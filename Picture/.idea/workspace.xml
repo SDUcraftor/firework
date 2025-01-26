@@ -5,14 +5,53 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2d508349-240c-4022-8441-6b6d9dfb7dd8" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/DrawLine.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Paowuxian.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/circle2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/64.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/65.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/66.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/67.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/68.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/69.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/70.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/71.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/72.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/73.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/74.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/75.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/76.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/77.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/78.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/79.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/80.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/81.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/82.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/83.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/84.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/85.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/86.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/87.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/88.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/89.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/90.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/91.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/92.mcfunction" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/line/93.mcfunction" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sphere/1000.mcfunction" beforeDir="false" afterPath="$PROJECT_DIR$/sphere/1000.mcfunction" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -21,19 +60,24 @@
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="2s7fsKqqJJPUgq6uZzE3khdUFBg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.circle.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/firework2/firework/Picture&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python.DrawLine.executor": "Run",
+    "Python.circle.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/firework2/firework/Picture"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,5 +95,8 @@
       <updated>1737811738941</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

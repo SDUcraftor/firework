@@ -31,7 +31,7 @@ def circle(theta, fai, R, red, gre, blu):
         zv =  math.sin(j)
         fp.write("particle dust {6} {7} {8} 10 {0:.10f} {1:.10f} {2:.10f} {3:.10f} {4:.10f} {5:.10f} 0.4 0 force\n".format(x1, y1, z1, xv, yv, zv, red, gre, blu))
         fp.write("particle flash {0:.10f} {1:.10f} {2:.10f} {3:.10f} {4:.10f} {5:.10f} 0.4 0 force\n".format(x1, y1, z1, xv, yv, zv))
-        j += R / 20
+        j += R / 100
             # green += 1
             # if(green % 2 == 0):
                 # fp.write("summon minecraft:firework_rocket {0:.10f} {1:.10f} {2:.10f} {{Motion:[{3:.10f}d,{4:.10f}d,{5:.10f}d]".format(xi, yi, zi, xv * 3, yv * 3, zv * 3))
